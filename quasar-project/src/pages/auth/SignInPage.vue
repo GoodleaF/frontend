@@ -2,7 +2,7 @@
   <q-page>
     <div class="row full-height no-wrap">
       <div class="image-container col-12 col-md-6">
-        <q-img src="/BearBrickLogin.png" />
+        <q-img src="/LoginImage.png" />
       </div>
       <div class="col flex flex-center">
         <q-card flat :style="{ minWidth: '400px' }">
@@ -67,7 +67,7 @@ const onSubmit = async () => {
   }
 
   .image-container {
-    background: url('/BearBrickLogin.png') no-repeat center center;
+    background: url('/LoginImage.png') no-repeat center center;
     background-size: cover;
   }
 

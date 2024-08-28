@@ -12,7 +12,7 @@ export default defineComponent({
 
 <style lang="scss" scoped>
 .page-background {
-  background-image: url('/BearBrickMain.png');
+  background-image: url('/MainPageImage.png');
   background-size: contain;
   background-position: center center; 
   background-repeat: no-repeat;

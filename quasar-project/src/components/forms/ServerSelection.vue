@@ -11,7 +11,7 @@ const serverStore = useServerStore();
 const serverOptions = serverStore.Options
 
 const props = defineProps({
-  modelValue: { type: String, default: 'bearbrick_game01' },
+  modelValue: { type: String, default: 'base_game01' },
 })
 const emit = defineEmits(['changed'])
 

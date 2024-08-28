@@ -11,7 +11,7 @@
         <q-toolbar-title>
           <router-link to="/" class="delunderline">
             <div class="text-white">
-              BearBrick 웹 운영툴
+              웹 운영툴
             </div>
           </router-link>
         </q-toolbar-title>

@@ -24,7 +24,7 @@ const myForm = ref(null);
 const formButton = ref(null);
 //폼 데이터
 const form = ref({
-  server: 'bearbrick_game01',
+  server: 'base_game01',
   keyword: '',
 })
 
